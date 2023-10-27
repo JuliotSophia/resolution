@@ -12,6 +12,7 @@ public class Samp {
 	     WebDriver driver = new FirefoxDriver();		
 	     driver.get("https://www.google.com/");
 	     	driver.exit();
+			driver.quit();
 		
 		
 		
